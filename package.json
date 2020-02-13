@@ -1,0 +1,23 @@
+{
+  "name": "fstween",
+  "version": "1.0.0",
+  "description": "Tween class from Fantasite framework.",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MasGaNo/fstween.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MasGaNo/fstween/issues"
+  },
+  "homepage": "https://github.com/MasGaNo/fstween#readme",
+  "devDependencies": {
+    "typescript": "^3.7.5"
+  }
+}
